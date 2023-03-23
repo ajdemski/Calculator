@@ -40,4 +40,3 @@ function add(num1, num2) {
     const form = document.getElementById("calculator");
     form.addEventListener("submit", handleCalculation);
   });
-  
